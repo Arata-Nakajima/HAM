@@ -7,4 +7,3 @@ google-genai
 google-api-python-client
 python-telegram-bot
 playsound==1.2.2
-$env:GEMINI_API_KEY="あなたのAPIキー"
