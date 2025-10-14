@@ -1,4 +1,5 @@
 Telegramでbotを作成しchat_id等を取得してpartner_bot.pyに反映して下さい  
+VOICEBOXをインストールして下さい  
 PowerShellで以下を実行して下さい  
 $env:GEMINI_API_KEY="あなたのAPIキー"  
 python.exe partner_bot.py
