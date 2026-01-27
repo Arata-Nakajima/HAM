@@ -1,1 +1,16 @@
-
+{
+  "manifest_version": 3,
+  "name": "Moe-ka Linker",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["https://gemini.google.com/app/68aaf59dcc96b406"],
+      "js": ["content.js"]
+    }
+  ],
+  "background": [
+    {
+      "js": ["background.js"]
+    }
+  ]
+}
